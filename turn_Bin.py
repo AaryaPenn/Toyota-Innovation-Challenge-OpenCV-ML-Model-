@@ -1,14 +1,12 @@
 import cv2
 import numpy as np
-import os
+
 
 def turn_Bin(img_file="./images/Metal_1.jpg"):
-    # Set the path to the Downloads folder and the name of the image file
-
-    # Load the image
+  
     img = cv2.imread(img_file)
 
-    # Halve the image size
+
     img = cv2.resize(img, (0, 0), fx=0.5, fy=0.5)
 
     # Convert the image to grayscale
@@ -17,7 +15,6 @@ def turn_Bin(img_file="./images/Metal_1.jpg"):
     # Set the threshold for "black"
     black_threshold = 25
 
-    # Create a mask of everything that is below the black threshold
     mask = gray < black_threshold
 
     # Find contours in the mask
