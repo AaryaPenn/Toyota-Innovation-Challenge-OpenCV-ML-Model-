@@ -11,8 +11,6 @@ Toyota Innovation Challenge, May 2023, @ University of Waterloo
 - Veronika Tadros
 - Zain Parihar
 
-# Machine Learning Project README
-
 ## Overview
 
 This project is designed for various classification tasks using machine learning models. The project involves training separate models for different labels or classes based on data stored in an Excel file (`data.xlsx`) and making predictions for new data.
