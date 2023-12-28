@@ -3,13 +3,6 @@ Toyota Innovation Challenge, May 2023, @ University of Waterloo
 
 ## Team Members
 - Aarya Penneru
-- Ali Muizz
-- Aviral Gupta
-- Benedek Boda
-- Prasheel Vellanki
-- Saaniya Saraf
-- Veronika Tadros
-- Zain Parihar
 
 ## Overview
 
